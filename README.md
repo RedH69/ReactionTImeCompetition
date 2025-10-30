@@ -5,3 +5,4 @@ The game is pretty self-explanatory. It starts as soon as you plug it in. A 3-se
 
 To reset the game, press the red Arduino button on the board and start again.
 
+The project uses the Arduino language based on C++
